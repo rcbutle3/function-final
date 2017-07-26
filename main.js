@@ -3,7 +3,16 @@
 // Then, write and example of using the function.
 
 function max(){
-    // Your answer here
+    // max="38";
+       min-"8";
+       function max (38, 8) {
+         if (38 > 8}
+         return 38;
+       }
+       else if(8>38)}
+           return 8
+         console.log(greaterThan(38, 8) === true);
+
 }
 
 
@@ -11,7 +20,7 @@ function max(){
 // Define a function maxOfThree() that takes three numbers as arguments and returns the largest of them.
 // Then, write and example of using the function.
 
-function maxOfThree(){
+function maxOfThree(5,6,7){
     // Your answer here
 }
 
